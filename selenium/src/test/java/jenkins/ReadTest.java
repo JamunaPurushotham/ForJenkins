@@ -6,7 +6,7 @@ public class ReadTest {
 	
 	@Test
 	public void WriteTest() {
-		System.out.println("Write Test executed Successfully");
+		System.out.println("Writing Test executed Successfully");
 	}
 
 }
